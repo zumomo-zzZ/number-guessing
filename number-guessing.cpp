@@ -147,4 +147,5 @@ int main(void) {
 	}
 	printf("I—¹‚µ‚Ü‚·B\n");
 	getchar();
+
 }
